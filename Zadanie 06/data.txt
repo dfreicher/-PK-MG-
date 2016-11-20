@@ -1,0 +1,6 @@
+Produkt1 40
+Produkt2 25
+Produkt3 30
+Produkt4 25
+Produkt5 25
+Produkt6 10
